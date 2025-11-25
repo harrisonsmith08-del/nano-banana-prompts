@@ -1,4 +1,4 @@
-# The Ultimate Gemini Prompt Library
+# The Ultimate Gemini Prompt 
 
 **20 "One-Shot" Prompts for Agency-Quality AI Images**
 
